@@ -4,9 +4,7 @@ npm i
 npm start
 ```
 you need to setup these variables in config/.env
-![Screenshot from 2025-06-08 15-35-12](https://github.com/user-attachments/assets/b10b05e6-025f-4075-85f0-2211b5b9851d)
-
-
+![image](https://github.com/user-attachments/assets/f13f6b85-40c1-4744-80c3-d1de6be18553)
 
 # Google SSO
 
@@ -16,9 +14,9 @@ you will need to create a project in the [google cloud console page](https://con
 
 and obtain a GOOGLE_CLIENT_ID and GOOGLE_CLIENT_SECRET
 
-![sso-google](https://github.com/user-attachments/assets/0ca86045-19a4-4132-a931-58944eadca3e)
+![sso-google](https://github.com/user-attachments/assets/93d5c0b6-f4bf-41fc-98ec-c7884eca6b3f)
 
-![sso-google2](https://github.com/user-attachments/assets/fd0a56c0-e5a7-4108-9d40-d71f465c0253)
+![sso-google2](https://github.com/user-attachments/assets/e822d002-fd1c-4642-b53a-2625ca73665b)
 
 # session storage
 
@@ -30,5 +28,6 @@ you will need to get connection such as
 
 [you can get a free MongoDB Atlas account](https://account.mongodb.com/account/login)
 
-![mongodb-session](https://github.com/user-attachments/assets/75eb9356-2be6-4aff-b700-3745fa37a2e4)
+![Screenshot from 2025-06-18 20-42-36](https://github.com/user-attachments/assets/2d05a12d-bbc4-426e-bd17-9b852f62ac7c)
+
 
